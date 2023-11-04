@@ -1,2 +1,2 @@
 # practicals
-Practical 
+ AI Practical 
